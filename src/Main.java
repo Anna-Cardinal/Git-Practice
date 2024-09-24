@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         String firstname = "Anna";
+        String lastname = "Cardinal";
 
     }
 }
